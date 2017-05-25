@@ -1444,6 +1444,10 @@ ul.countdown li p {
     background: #fff;
 }
 
+.UKG .container {
+    position: relative;
+}
+
 .UKG .heading2 {
     font-weight: 800;
     color: #FFF;
@@ -1466,10 +1470,6 @@ ul.countdown li p {
 .UKG h4,
 .UKG h5 {
     line-height: 25px;
-}
-
-.UKG .fa {
-    color: #EEF065;
 }
 
 .USH {
@@ -1777,6 +1777,10 @@ figcaption h6 {
 
 .m-t-60 {
     margin-top: 60px;
+}
+
+.m-b-25 {
+    margin-bottom: 25px;
 }
 
 .m-b-60 {
@@ -2838,4 +2842,33 @@ h4 a:focus {
 .usg-bg-box .btn-danger-box {
     position: absolute;
     bottom: -18px;
+}
+
+.UKG-more-box {
+    position: absolute;
+    background: #333333;
+    width: 72%;
+    right: 0;
+    bottom: -9%;
+}
+
+.UKG-more-box i {
+    color: #fff;
+}
+
+.UKG-more-box h4 {
+    color: #fff!important;
+}
+
+.UKG-more-box .danger-btn-a {
+    position: absolute;
+    background: #b60311;
+    color: #fff;
+    padding: 10px 70px;
+    right: 11%;
+    bottom: -23px;
+}
+
+.UKG-more-box p {
+    color: #fff;
 }
