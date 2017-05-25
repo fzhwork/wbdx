@@ -1,0 +1,22 @@
+﻿文件下载网址  =>  文件保存路径
+http://polarisanddawn.com/vendors/iCheck/css/square/aero@2x.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\aero@2x_1.png
+http://polarisanddawn.com/vendors/revolution-slider/assets/shadow2.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\shadow2.png
+http://polarisanddawn.com/vendors/jribbble/js/jribbble.min.js  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\js\jribbble.min.js
+http://polarisanddawn.com/vendors/iCheck/css/minimal/red.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\red.png
+http://polarisanddawn.com/images/bg/bg6.jpg  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\bg6.jpg
+http://polarisanddawn.com/vendors/iCheck/css/line/line@2x.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\line@2x.png
+http://polarisanddawn.com/vendors/iCheck/css/square/green.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\green_1.png
+http://polarisanddawn.com/images/bg/slider2.jpg  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\slider2.jpg
+http://polarisanddawn.com/images/home2_slider_layer3.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\home2_slider_layer3.png
+http://polarisanddawn.com/images/dropdownbackground.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\dropdownbackground.png
+http://polarisanddawn.com/vendors/iCheck/css/minimal/blue.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\blue.png
+http://polarisanddawn.com/images/bg/bg4.jpg  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\bg4.jpg
+http://polarisanddawn.com/vendors/iCheck/css/minimal/pink@2x.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\pink@2x.png
+http://polarisanddawn.com/vendors/iCheck/js/icheck.js  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\js\icheck.js
+http://polarisanddawn.com/vendors/iCheck/css/square/yellow@2x.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\yellow@2x_1.png
+http://polarisanddawn.com/images/global.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\global.pnghttp://polarisanddawn.com/vendors/iCheck/css/flat/flat@2x.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\flat@2x.png
+http://polarisanddawn.com/images/edu-counter1.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\edu-counter1.png
+http://polarisanddawn.com/images/backto.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\picture\backto.png
+http://polarisanddawn.com/vendors/revolution-slider/assets/arrow_right2.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\arrow_right2.png
+http://polarisanddawn.com/vendors/iCheck/css/flat/purple.png  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\purple_2.png
+http://polarisanddawn.com/images/newback.jpg  =>  D:\我的资料\单页扒站小工具-扒出来的页面非常完美\polarisanddawn.com\images\newback.jpg
